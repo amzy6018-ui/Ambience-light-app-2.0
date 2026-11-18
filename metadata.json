@@ -1,0 +1,6 @@
+{
+  "name": "LumaSync Ambient",
+  "description": "Ambilight-style Android TV screen capture and Arduino Uno Adalight USB serial controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
